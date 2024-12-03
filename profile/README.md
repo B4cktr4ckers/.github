@@ -1,4 +1,4 @@
-# Backtrackers - The Epitech Cybersecurity Club
+# Backtrackers - The Cybersecurity Club
 
 ## 🎯 **Club Objectives**
 The **Backtrackers** club was created to bring together cybersecurity enthusiasts at Epitech. We provide a space for **learning**, **experimentation**, and **collaboration** in a strictly **ethical** and **legal** framework. Whether you're a beginner or an expert, our mission is to help you grow your cybersecurity skills.

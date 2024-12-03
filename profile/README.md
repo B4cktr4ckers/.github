@@ -73,7 +73,7 @@ Are you passionate about cybersecurity and eager to develop your skills while wo
 ---
 
 ## 📬 **Contact Us**
-- **Email**: no email for now
+- **Email**: b4cktr4ckers@gmail.com
 - **Social Media**: Find us on [Instagram](#).  
 - **Location**: Epitech Lyon.
 

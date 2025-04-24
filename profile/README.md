@@ -29,12 +29,6 @@ The **Backtrackers** club was created to bring together cybersecurity enthusiast
 ---
 
 ## 🏛️ **How the Club Works**
-### **Membership Recruitment**
-- **Open Applications**: Membership applications are closed.  
-- **Selection Process**:
-  1. Fill out an online application form.  
-  2. Attend an individual interview with a member of the board to discuss your motivations.  
-  3. The board will deliberate and decide on membership approval.  
 
 ### **Structure**
 - **Club Board**:  
@@ -63,28 +57,10 @@ The **Backtrackers** club was created to bring together cybersecurity enthusiast
 
 ---
 
-## 🤝 **How to Join**
-Are you passionate about cybersecurity and eager to develop your skills while working on exciting projects?  
-**Join us!** Here’s how:
-1. Watch for our application periods.  
-2. Fill out the online form.  
-3. Prepare for an individual interview with a board member.
-
----
-
 ## 📬 **Contact Us**
 - **Email**: b4cktr4ckers@gmail.com
 - **Social Media**: Find us on [Instagram](https://www.instagram.com/b4cktr4ckers/).  
 - **Location**: Epitech Lyon.
-
----
-
-## 📌 **FAQ**
-### Who can join the club?
-Any Epitech student interested in cybersecurity, regardless of skill level, is welcome.
-
-### What tools should I know before joining?  
-No prior knowledge is necessary. Our workshops are designed for step-by-step learning.
 
 ---
 
